@@ -1,5 +1,4 @@
 # 🌸 K-Nearest Neighbors (KNN) Classification on Synthetic Iris-like Dataset
-
 This repository demonstrates how to implement and visualize a K-Nearest Neighbors (KNN) classifier using a **synthetic flower classification dataset** inspired by the famous Iris dataset.
 
 ---
